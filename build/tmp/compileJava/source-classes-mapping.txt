@@ -1,17 +1,10 @@
 org/example/Actor.java
  org.example.Actor
-org/example/impl/message/AddTwoThenReturnValueMessage.java
- org.example.impl.message.AddTwoThenReturnValueMessage
-org/example/impl/PrinterActor.java
- org.example.impl.PrinterActor
-org/example/impl/NumberActor.java
- org.example.impl.NumberActor
+org/example/Teacher.java
+ org.example.Teacher
+org/example/SystemActor.java
+ org.example.SystemActor
+org/example/Student.java
+ org.example.Student
 org/example/Application.java
  org.example.Application
- org.example.Application$1
-org/example/impl/message/AddOneMessage.java
- org.example.impl.message.AddOneMessage
-org/example/Message.java
- org.example.Message
-org/example/impl/message/DoubleMessage.java
- org.example.impl.message.DoubleMessage
